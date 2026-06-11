@@ -1,2 +1,2 @@
 # E-commerce-sales-analytics
-this is my first github project
+this is my first github repository
